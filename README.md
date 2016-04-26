@@ -1,2 +1,0 @@
-# shutterstat
-ShutterStat.pro
